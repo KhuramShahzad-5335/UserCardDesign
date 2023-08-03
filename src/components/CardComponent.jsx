@@ -1,4 +1,4 @@
-import "./CardComponent.css";
+import "./cardComponent.css";
 import expImg from "../assets/profile.jpg";
 import ChipsComponent from "./ChipsComponent";
 
