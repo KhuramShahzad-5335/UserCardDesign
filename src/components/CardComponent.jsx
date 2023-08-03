@@ -58,7 +58,7 @@ const statusContainer = {
 const joiningContainer = {
   display: "flex",
   justifyContent: "center",
-  alignItems: "center",
+  alignItems: "start",
   marginTop: "2rem",
 };
 
