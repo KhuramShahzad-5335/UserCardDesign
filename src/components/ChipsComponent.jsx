@@ -1,4 +1,4 @@
-import propsTypes from "prop-types";
+import PropTypes from "prop-types";
 
 const chipsComponent = (props) => {
   const chipContainer = {
@@ -21,7 +21,7 @@ const chipsComponent = (props) => {
 };
 
 chipsComponent.propsTypes = {
-  title: propsTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
 };
 
 export default chipsComponent;
