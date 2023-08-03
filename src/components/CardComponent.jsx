@@ -94,7 +94,7 @@ const CardComponent = () => {
         </div>
       </div>
 
-      <div style={joiningContainer}>
+      <div style={statusContainer}>
         <i className="bx bx-badge-check" style={iconStyle}></i>
         <p style={paraStyles}>Joined on 30 August, 2021</p>
       </div>
