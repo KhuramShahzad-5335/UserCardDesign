@@ -1,0 +1,75 @@
+.cardContainer{
+    border: 10px solid transparent;
+    box-shadow: 0 0 20px #333;
+    padding: 3rem;
+    width: 75%;
+    height : auto;
+    margin: 25% 25%;
+}
+
+img{
+    width: 200px;
+    height: auto;
+    border: #333 5px solid;
+    box-shadow: 0 0 10px #333;
+    border-radius: 10%;
+    margin: 0;
+    padding: 0;
+}
+
+.statusContainer{
+    display: flex;
+    justify-content:flex-start;
+    align-items: start;
+    align-items: center;
+}
+
+.statusContainer h1{
+    margin: 10px 10px;
+}
+
+.statusContainer i{
+    transform: translateY(0.2rem);
+    color: rgb(0, 168, 197);
+}
+
+.jobTitle{
+    margin: 5px 10px;
+}
+
+
+.skillsContainer{
+    margin: 0px 0px 0px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: start;
+}
+
+.chipsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: start;
+    margin: 0px 10px 0px 0px;
+}
+
+
+
+.joiningContainer{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.joiningContainer i{
+    margin: 10px 10px;
+    color: rgb(0, 168, 197);
+    transform: translateY(0.1rem);
+}
+
+.joiningContainer p{
+    margin: 10px 0px;
+}
