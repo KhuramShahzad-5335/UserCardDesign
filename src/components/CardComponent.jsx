@@ -1,5 +1,5 @@
-import "./cardComponent.css";
-import expImg from "../../assets/profile.jpg";
+import "../styles/cardComponent.css";
+import expImg from "../assets/profile.jpg";
 import ChipsComponent from "./ChipsComponent";
 
 const CardComponent = () => {
