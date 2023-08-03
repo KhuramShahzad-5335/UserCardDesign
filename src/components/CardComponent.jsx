@@ -23,6 +23,7 @@ const imgStyles = {
 const iconStyle = {
   transform: "translateY(0.2rem)",
   color: "rgb(0, 168, 197)",
+  marginRight: "5px",
 };
 
 const nameStyle = {
@@ -53,13 +54,6 @@ const statusContainer = {
   display: "flex",
   justifyContent: "flex-start",
   alignItems: "center",
-};
-
-const joiningContainer = {
-  display: "flex",
-  justifyContent: "center",
-  alignItems: "start",
-  marginTop: "2rem",
 };
 
 const paraStyles = {
